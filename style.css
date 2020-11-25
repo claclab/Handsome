@@ -412,7 +412,6 @@ border-radius: 90px;
 .recap a {
 	display: flex;
 	flex-grow: 1;
-	
 	font-size: 18px;
 	font-weight: bold;
 	color: black;
