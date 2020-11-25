@@ -396,6 +396,14 @@ border-radius: 90px;
 	flex-basis: 220px;
 }
 
+.logovendeur{
+	margin-left:5px;
+	margin-right: 5px;
+	width:30px;
+	height:30px;
+   clip-path:ellipse(50% 50%);
+}
+
 .ajoutpanier{
 	flex-wrap: wrap;
 	display: flex;
