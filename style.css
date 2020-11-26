@@ -65,7 +65,7 @@ button:hover{
 }
 
 .btn-saumon {
-	position: absolute;
+	margin: 20px;
 	font-family: 'Poppins', serif;
 	background-color: #FFE4CF;
 	color:black;
@@ -82,12 +82,20 @@ button:hover{
 }
 
 .connect{
-	left: 10;
+position: relative;
 }
 
-.create{
-	right: 0;
-}
+#deconnecter {
+position: absolute;
+right: 10px;
+top: 5px;
+ }
+
+#panier {
+position: absolute;
+right: 10px;
+top: 75px;
+ }
 
 .continuer {
 	left: 10;
