@@ -59,6 +59,13 @@ body{
 	font-weight: bold;
 }
 
+.onglets{
+	position: relative;
+	text-align: center;
+	display: flex;
+	flex-wrap: wrap;
+}
+
 h1{
 	color: #FFE4CF;
 	font-family: 'Poppins', serif;
@@ -174,6 +181,10 @@ margin-bottom: 60px;
 .index-menu {
 display: flex;
 flex-wrap: wrap;
+}
+
+.index-menu-robes{
+	flex-wrap: wrap;
 }
 
 .cards {
