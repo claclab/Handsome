@@ -154,7 +154,7 @@ top: 75px;
 
 .continuer {
 	left: 10;
-	padding: 20px;
+	position: absolute;
 }
 
 .shopping-commande{
