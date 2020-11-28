@@ -176,6 +176,11 @@ top: 75px;
 	right:10px;
 }
 
+#commande: hover {
+	background-color:#FFFFFF;
+	color:black;
+}
+
 #shopping {
 	margin: 20px;
 	font-family: 'Poppins', serif;
@@ -188,6 +193,11 @@ top: 75px;
 	text-decoration: none;
 	position:absolute;
 	left: 10px;
+}
+
+#shopping: hover {
+	background-color:#FFFFFF;
+	color:black;
 }
 
 .aboutus {
