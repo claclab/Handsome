@@ -156,6 +156,39 @@ top: 75px;
 	left: 10;
 }
 
+.shopping-commande{
+	position:relative;
+}
+
+
+#commande{
+	margin: 20px;
+	font-family: 'Poppins', serif;
+	background-color: #FFE4CF;
+	color:black;
+	padding: 15px 30px;
+	border-radius: 5px;
+	width: 170px;
+	text-align: center;
+	text-decoration: none;
+	position:absolute;
+	right:10px;
+}
+
+#shopping {
+	margin: 20px;
+	font-family: 'Poppins', serif;
+	background-color: #FFE4CF;
+	color:black;
+	padding: 15px 30px;
+	border-radius: 5px;
+	width: 170px;
+	text-align: center;
+	text-decoration: none;
+	position:absolute;
+	left: 10px;
+}
+
 .aboutus {
 text-align: center;
 margin-top: 60px;
