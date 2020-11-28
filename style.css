@@ -280,7 +280,7 @@ text-decoration: none;
 .card-grey{
 background-color: white;
 box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
-padding: 0px;
+padding: 40px;
 border-radius: 4px;
 margin: 30px 60px;
 text-align: center;
@@ -332,7 +332,7 @@ input {
 .btn-go{
 	background-color: #FFE4CF;
 	color: black;
-	padding: 15px 50px;
+	padding: 5px 50px;
 	border: 300px;
 	border-radius: 4px;
 	text-decoration: none;
