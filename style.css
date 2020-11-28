@@ -171,6 +171,12 @@ margin-bottom: 60px;
 	padding: 140px 0px;
 }
 
+.banner-btn h1{
+	background-size: cover;
+	background-position: center;
+	padding: 140px 0px;
+}
+
 .index-menu {
 display: flex;
 flex-wrap: wrap;
